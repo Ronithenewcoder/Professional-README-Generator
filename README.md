@@ -12,7 +12,8 @@ When I enter node index.js I should be promted with a series of questions about 
 Tutor - Phillip Loy
 
 ## Demonstration Video
-<video src="Untitled%20video%20-%20Made%20with%20Clipchamp.mp4" controls title="Readme"></video>
+<video src="Untitled%20video%20-%20Made%20with%20Clipchamp.mp4" controls title="Readme"></video> 
+https://clipchamp.com/watch/dqX5qEkyhIc
 
 ## Picture
 ![Alt text](image.png)
