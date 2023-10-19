@@ -12,7 +12,7 @@ When I enter node index.js I should be promted with a series of questions about 
 Tutor - Phillip Loy
 
 ## Demonstration Video
-<Untitled_ Oct 19, 2023 5_15 PM.webm>
+<video src="Untitled%20video%20-%20Made%20with%20Clipchamp.mp4" controls title="Readme"></video>
 
 ## Picture
 ![Alt text](image.png)
